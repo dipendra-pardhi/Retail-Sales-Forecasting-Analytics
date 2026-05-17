@@ -12,6 +12,17 @@ This project focuses on analyzing retail sales data to understand product perfor
 
 ---
 
+## 📊 Dashboard Screenshots
+
+### 🏠 EXECUTIVE DASHBOARD
+![EXECUTIVE DASHBOARD](assets/home-dashboard.png)
+
+### 💰 PRODUCT ANALYSIS
+![PRODUCT ANALYSIS](assets/revenue-dashboard.png)
+
+### 📈 CUSTOMER ANALYSIS
+![CUSTOMER ANALYSIS](assets/executive-overview.png)
+
 ## 📂 Data Sources
 
 The dataset includes:
@@ -31,6 +42,9 @@ The dataset includes:
 * Performed time-series analysis and forecasting using Python
 
 ---
+
+## Python Graph Image
+![EXECUTIVE DASHBOARD](assets/home-dashboard.png)
 
 ## 🛠 Tools & Technologies
 
