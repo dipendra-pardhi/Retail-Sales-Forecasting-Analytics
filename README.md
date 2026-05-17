@@ -15,7 +15,7 @@ This project focuses on analyzing retail sales data to understand product perfor
 ## 📊 Dashboard Screenshots
 
 ### 🏠 EXECUTIVE DASHBOARD
-![EXECUTIVE DASHBOARD](assets/home-dashboard.png)
+![EXECUTIVE DASHBOARD](https://github.com/dipendra-pardhi/Retail-Sales-Forecasting-Analytics/blob/main/Dashbord%20Images/Executive%20Dashboard.png)
 
 ### 💰 PRODUCT ANALYSIS
 ![PRODUCT ANALYSIS](assets/revenue-dashboard.png)
