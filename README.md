@@ -44,12 +44,13 @@ The dataset includes:
 
 ---
 
-## Python Graph Image
-### 📈 [Monthly Sales Trend]
-(https://github.com/dipendra-pardhi/Retail-Sales-Forecasting-Analytics/blob/main/Graph%20Sales_Trend%20Image/Monthly.png)
+## Python Graph Images
 
-### 📈 [Sales Forecast Next 6 Months]
-(https://github.com/dipendra-pardhi/Retail-Sales-Forecasting-Analytics/blob/main/Graph%20Sales_Trend%20Image/Sales%20Forecast.png)
+### 📈 Monthly Sales Trend
+![Monthly Sales Trend](https://raw.githubusercontent.com/dipendra-pardhi/Retail-Sales-Forecasting-Analytics/main/Graph%20Sales_Trend%20Image/Monthly.png)
+
+### 📈 Sales Forecast Next 6 Months
+![Sales Forecast](https://raw.githubusercontent.com/dipendra-pardhi/Retail-Sales-Forecasting-Analytics/main/Graph%20Sales_Trend%20Image/Sales%20Forecast.png)
 
 ## 🛠 Tools & Technologies
 
