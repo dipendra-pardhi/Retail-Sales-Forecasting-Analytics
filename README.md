@@ -44,7 +44,8 @@ The dataset includes:
 ---
 
 ## Python Graph Image
-![EXECUTIVE DASHBOARD](assets/home-dashboard.png)
+![Monthly Sales Trend](https://github.com/dipendra-pardhi/Retail-Sales-Forecasting-Analytics/blob/main/Graph%20Sales_Trend%20Image/Monthly.png)
+![Sales Forecast Next 6 Months]()
 
 ## 🛠 Tools & Technologies
 
