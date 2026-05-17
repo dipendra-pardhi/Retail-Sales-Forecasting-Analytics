@@ -21,7 +21,7 @@ This project focuses on analyzing retail sales data to understand product perfor
 ![PRODUCT ANALYSIS](https://github.com/dipendra-pardhi/Retail-Sales-Forecasting-Analytics/blob/main/Dashbord%20Images/Product%20Analysis.png)
 
 ### 📈 CUSTOMER ANALYSIS
-![CUSTOMER ANALYSIS](assets/executive-overview.png)
+![CUSTOMER ANALYSIS](https://github.com/dipendra-pardhi/Retail-Sales-Forecasting-Analytics/blob/main/Dashbord%20Images/Customer%20Analysis.png)
 
 ## 📂 Data Sources
 
